@@ -1,0 +1,14 @@
+Library/
+Temp/
+Logs/
+obj/
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+Builds/
+*.csproj
+*.sln
+*.userprefs
